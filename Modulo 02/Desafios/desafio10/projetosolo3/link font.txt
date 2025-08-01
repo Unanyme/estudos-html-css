@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+padrão = Arial, verdana, helvetica, sans-serif;
+destaque = 'Bebas Neue',  cursive
+Android = 'Android',  Cursive;
+
+:root (Pseudoclasse
+
+@font-face
+font-family
+src
+format
+font-wheight
